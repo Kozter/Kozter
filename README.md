@@ -7,17 +7,6 @@ I'm Jørgen from Norway, a current bachelor student specializing within Data Sci
 ## Skills:
 Python / SQL / Azure / R
 
-## Personal qualities:
-
-##### Open-minded and curious
-##### Self-driven and willing to share
-##### Flexible and service-minded
-##### Structured and systematic
-##### Analytical
-##### Able to work both individually and in teams
-##### Fluent in English, both verbal and written
-##### Are efficient and structured in combination with a service- and solution-oriented approach
-
 ## Open for:
 Collaborating, on hands work experience
 
