@@ -1,10 +1,14 @@
 ### Welcome to Kozter´s GitHub Profile
-#### Data Scientist
-![Data Scientist](https://wallpaperaccess.com/full/1704443.jpg)
+## Jørgen André Koster
+### Data Scientist
+
+![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
+
 
 I'm Jørgen from Norway, a current bachelor student specializing within Data Science. I really enjoy learning languages, but prefer coding in python. Also like projects, collaborating, sql and design in general. Looking forward to learn more and challenges to come.
 
-Skills: Python / SQL / Azure / R
+## Skills:
+Python / SQL / Azure / R
 
 
 
