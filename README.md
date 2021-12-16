@@ -1,6 +1,6 @@
 ### Welcome to Kozter´s GitHub Profile
 ## Jørgen André Koster
-### Data Scientist
+#### Data Scientist
 
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
