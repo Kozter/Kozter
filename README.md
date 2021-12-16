@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Kozter
-- 👀 I’m interested in Data science, machine learning, Deep learning, AI, computer science
-- 🌱 I’m currently learning Python, SQL, Linear algebra, Data ethics & regulations
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me linkedin.com/in/jørgen-andré-koster-0b3760190
+### Welcome to Kozter´s GitHub Profile
+#### Data Scientist
+![Data Scientist](https://wallpaperaccess.com/full/1704443.jpg)
 
-<!---
-Kozter/Kozter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Jørgen from Norway, a current bachelor student specializing within Data Science. I really enjoy learning languages, but prefer coding in python. Also like projects, collaborating, sql and design in general. Looking forward to learn more and challenges to come.
+
+Skills: Python / SQL / Azure / R
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kozter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/jørgen-andré-koster-0b3760190)  
+
+
