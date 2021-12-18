@@ -10,7 +10,7 @@ Can be described as very sociable with solid ambitions for further development, 
 Broad experience from different sectors from logistics, sales, customer care, teamwork, and management.
 
 ## Skills:
-Python / SQL / Azure / R
+Python / SQL / Azure / R / Machine learning
 
 ## Open for:
 Collaborating, on hands work experience
