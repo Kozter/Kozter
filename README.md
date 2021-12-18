@@ -16,4 +16,4 @@ Python / SQL / Azure / R / Machine learning
 ## Open for:
 Collaborating, on hands work experience
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kozter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/jørgen-andré-koster-0b3760190)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kozter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://linkedin.com/in/jørgen-andré-koster-0b3760190)  
