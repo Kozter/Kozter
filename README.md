@@ -1,12 +1,12 @@
 # Data Scientist
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
-##Junior IT Advisor
-@Sjømat Norge / Norwegian Seafood Federation
+## Junior IT Advisor
+### @Sjømat Norge / Norwegian Seafood Federation
 
-##Background: Broad experience in different sectors from logistics, sales, customer care, teamwork, and management.
+## Background: Broad experience in different sectors from logistics, sales, customer care, teamwork, and management.
 
-##I am currently studying for a bachelor's degree in Data Science at Kristiania University College.
+## I am currently studying for a bachelor's degree in Data Science at Kristiania University College.
 
 ## Skills:
 Python / SQL / Power BI / Cloud computing / Analytics
