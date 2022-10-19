@@ -1,7 +1,7 @@
 # Data Scientist
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
-## Junior IT Advisor
+## Current: Junior IT Advisor
 ### @Sjømat Norge / Norwegian Seafood Federation
 
 ## Bachelor: Data science
