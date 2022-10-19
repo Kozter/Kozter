@@ -4,8 +4,10 @@
 ## Junior IT Advisor
 ### @Sjømat Norge / Norwegian Seafood Federation
 
-## I am currently studying for a bachelor's degree in Data Science at Kristiania University College.
-### Background: Broad experience in different sectors from logistics, sales, customer care, teamwork, and management.
+### I am currently studying for a bachelor's degree in Data Science at Kristiania University College.
+
+### Background:
+Broad experience in different sectors from logistics, sales, customer care, teamwork, and management.
 
 ## Skills:
 Python / SQL / Power BI / Cloud computing / Analytics
