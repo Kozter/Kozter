@@ -2,15 +2,14 @@
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
 ## Current: IT-Consultant
-
-#### B.Sc in Data science
-#### @Høyskolen Kristiania
+B.Sc in Data science
+@Høyskolen Kristiania
 
 ## Backround:
 IT Consultant | JK Consulting
-https://jk-consulting.no
+##### https://jk-consulting.no
 
-Background: Broad experience in different sectors from logistics, sales, customer care, teamwork, and management, and IT. 
+Broad experience in different sectors from logistics, sales, customer care, teamwork, and management, and IT. 
 
 Experience within major fields in Data Science, business intelligence and project management. 
 
