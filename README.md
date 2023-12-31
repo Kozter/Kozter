@@ -3,8 +3,8 @@
 
 ## Current: IT-Consultant
 
-## B.Sc in Data science
-### @Høyskolen Kristiania
+#### B.Sc in Data science
+#### @Høyskolen Kristiania
 
 ## Backround:
 IT Consultant | JK Consulting
