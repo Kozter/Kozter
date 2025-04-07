@@ -14,7 +14,6 @@ My expertise spans IT project leadership, digital transformation, stakeholder ma
 ## 🧠 Background
 
 **IT Consultant** | JK Consulting  
-🔗 [jk-consulting.no](https://jk-consulting.no)  
 *Jan 2024 – Dec 2024 | Oslo | Hybrid*
 
 Founded and operated as an independent IT consultant, delivering technical consulting and training in Microsoft Power Platform, Office 365, and automation tools. Helped clients streamline business processes and enhance digital workflows by leveraging Microsoft cloud solutions.
