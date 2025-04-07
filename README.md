@@ -1,4 +1,4 @@
-# Data Scientist  
+# From Data to Decisions – Bridging Strategy, Tech & Leadership
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
 ## 💼 Current Role: Advisor Capacity Management | Sykehuspartner
