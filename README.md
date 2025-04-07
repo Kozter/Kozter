@@ -1,7 +1,7 @@
 # Data Scientist  
 ![Data Scientist](https://miro.medium.com/max/870/1*14v1pUZwr516557dpS-oYw.jpeg)
 
-## 👨‍💼 Current Role: Advisor Capacity Management | Sykehuspartner
+## 💼 Current Role: Advisor Capacity Management | Sykehuspartner
 
 I have a background in Data Science and Project Management, with certifications in PRINCE2 Agile Foundation and Lean. I am currently pursuing an Executive Master’s in Digitalization and Leadership at the University of Oslo, where I explore IT strategy, innovation, and leadership in digital transformation.
 
@@ -14,11 +14,30 @@ My expertise spans IT project leadership, digital transformation, stakeholder ma
 ## 🧠 Background
 
 **IT Consultant** | JK Consulting  
-🔗 [jk-consulting.no](https://jk-consulting.no)
+🔗 [jk-consulting.no](https://jk-consulting.no)  
+*Jan 2024 – Dec 2024 | Oslo | Hybrid*
 
-I have broad experience across logistics, sales, customer care, teamwork, management, and IT.
+Founded and operated as an independent IT consultant, delivering technical consulting and training in Microsoft Power Platform, Office 365, and automation tools. Helped clients streamline business processes and enhance digital workflows by leveraging Microsoft cloud solutions.
 
-Formerly completed a B.Sc in Data Science from Kristiania University College, with a focus on business intelligence, analytics, and project delivery in cross-functional teams.
+---
+
+**Tech Lead (Internship)** | Naya Development  
+*Jan 2024 – Jun 2024 | Hybrid*
+
+Completed a full-time internship during the final semester of the Data Science degree. Led a small team in the development of an administrative platform, contributing to both backend and analytics functionality, focusing on structured delivery and collaboration in a real-world tech environment.
+
+---
+
+**Junior IT Advisor** | Sjømat Norge  
+*Mar 2022 – Dec 2023 | Oslo | Hybrid*
+
+Acted as the sole IT resource in a national industry organization, establishing infrastructure for data collection and reporting using Power Platform. Developed Power BI dashboards and reporting tools used by over 900 member companies. Contributed to system architecture, KPI analytics, invoicing support, and quality management documentation. Delivered cross-functional IT advisory and improved data-driven workflows across departments.
+
+---
+
+**Education**  
+🎓 *B.Sc in Data Science*, Kristiania University College  
+ Strong focus on business intelligence, data modeling, analytics, and interdisciplinary project delivery.
 
 ---
 
